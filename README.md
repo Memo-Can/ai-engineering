@@ -7,6 +7,7 @@
 | --- | --- | --- | --- |
 | 1 | LLM'e ilk adım: API, system prompt, few-shot | [notlar/hafta1.md](notlar/hafta1.md) | [hafta1/](hafta1/) |
 | 2 | Structured output: JSON şema, pydantic, tool use | [notlar/hafta2.md](notlar/hafta2.md) | [hafta2/](hafta2/) |
+| 3 | Tool use ve ilk agent: araç döngüsü, hata, prompt injection | [notlar/hafta3.md](notlar/hafta3.md) | [hafta3/](hafta3/) |
 
 ## Kurulum
 
