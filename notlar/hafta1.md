@@ -189,9 +189,9 @@ print(r.stop_reason, r.usage.input_tokens, r.usage.output_tokens)
 - [Anthropic Console](https://console.anthropic.com): API anahtarı, bakiye ve kullanım takibi
 - [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook): çalışan kod örnekleri
 - DeepLearning.AI kısa kursu "ChatGPT Prompt Engineering for Developers" (yaklaşık 1 saat, ücretsiz)
-- Andrej Karpathy, "Intro to LLMs" (YouTube, yaklaşık 1 saat): modelin içinde ne olduğuna dair sezgi
+- Andrej Karpathy, ["Intro to Large Language Models"](https://www.youtube.com/watch?v=zjkBMFhNj_g) (YouTube, 23 Kasım 2023, yaklaşık 1 saat): modelin içinde ne olduğuna dair sezgi; kod yok, 2023 modelleri üzerinden anlatır. Daha uzun ve daha güncel alternatif: ["Deep Dive into LLMs like ChatGPT"](https://www.youtube.com/watch?v=7xTGNNLPyMI) (5 Şubat 2025, 3 saat 31 dk)
 
-Bu listedeki başlıkları plan hazırlarken bildiğim kadarıyla yazdım, bağlantıları özellikle açıp doğrulamadım; ilk baktığında adı ya da adresi değişmiş olabilir.
+Karpathy videolarının başlık, tarih ve süresini 2026-11-11'de web aramasıyla kontrol ettim; YouTube sayfalarının kendisini açıp göremedim, yani bilgi arama özetlerine dayanıyor. Diğer başlıkları plan hazırlarken bildiğim kadarıyla yazdım ve doğrulamadım; ilk baktığında adı ya da adresi değişmiş olabilir.
 
 **Hafta 2: Structured output (JSON)**
 

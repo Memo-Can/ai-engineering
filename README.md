@@ -6,6 +6,7 @@
 | Hafta | Konu | Not | Kod |
 | --- | --- | --- | --- |
 | 1 | LLM'e ilk adım: API, system prompt, few-shot | [notlar/hafta1.md](notlar/hafta1.md) | [hafta1/](hafta1/) |
+| 2 | Structured output: JSON şema, pydantic, tool use | [notlar/hafta2.md](notlar/hafta2.md) | [hafta2/](hafta2/) |
 
 ## Kurulum
 
